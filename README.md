@@ -111,9 +111,6 @@ python grafici.py
 - **`k` non è un numero a caso**: viene scelto tramite cross-validation sul training set.
 - **L'accuratezza da sola non basta** su un dataset sbilanciato: il classification report (precision/recall/F1 per classe) accompagna ogni scenario.
 
-## 👤 Autore
-
-*[Il tuo nome]* — *[link LinkedIn / portfolio]*
 
 ## 📄 Licenza
 
