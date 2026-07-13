@@ -11,8 +11,6 @@ Confronto pratico tra un modello KNN allenato su dati grezzi e uno costruito seg
 
 ## 🎯 Obiettivo
 
-Il progetto risponde a una domanda concreta: **quanto conta davvero la preparazione dei dati rispetto all'algoritmo scelto?**
-
 KNN è un algoritmo basato sulla distanza tra punti: è estremamente sensibile a rumore, scala delle feature e dimensionalità. Per dimostrarlo, lo stesso identico algoritmo viene allenato due volte sullo stesso dataset:
 
 - **Scenario A — Baseline**: dati grezzi, nessuna pulizia
